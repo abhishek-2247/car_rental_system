@@ -1,0 +1,12 @@
+
+		CAR RENTALS
+		RECEIPT
+
+		CUSTOMER DETAILS
+	Customer Name: abhiahek patil
+	Contact No.: 965353
+	License No.:1234
+
+
+	Type of Car	Rent Days	Car Cost	Total
+	SWIFT		45		Rs1800		81000
